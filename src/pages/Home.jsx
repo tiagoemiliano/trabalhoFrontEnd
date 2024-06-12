@@ -64,7 +64,7 @@ function Home() {
                             />
                         ) )}
 
-                        <Link to="/post" className="btn btn-dark mt-4">
+                        <Link to="/ListPost" className="btn btn-dark mt-4">
                             Ver todos os posts
                         </Link>
                     </main>

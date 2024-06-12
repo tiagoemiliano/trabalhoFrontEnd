@@ -7,6 +7,7 @@ import {
 
 import Home from './pages/Home';
 import Post from './pages/Post';
+import ListPost from './pages/ListPost';
 
 import 'bootstrap/dist/css/bootstrap.min.css'
 
@@ -20,6 +21,10 @@ const router = createBrowserRouter([
     path: "post/:slug",
     element: <Post />,
   },
+  {
+    path: "ListPost",
+    element: <ListPost />,
+  }, 
 ]);
 
 ReactDOM.createRoot(document.getElementById('root')).render(
