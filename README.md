@@ -1,8 +1,35 @@
-# React + Vite
+  __  __       ____  _             
+ |  \/  |     |  _ \| |            
+ | \  / |_   _| |_) | | ___   __ _ 
+ | |\/| | | | |  _ <| |/ _ \ / _` |
+ | |  | | |_| | |_) | | (_) | (_| |
+ |_|  |_|\__, |____/|_|\___/ \__, |
+          __/ |               __/ |
+         |___/               |___/ 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+Bem-vindo ao repositório do **MyBlog**! Este é um projeto simples de um blog desenvolvido utilizando o framework # React + Vite.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## Tecnologias Utilizadas
+
+- **React** - Biblioteca JavaScript para construção de interfaces de usuário.
+- **Vite** - Ferramenta de build e desenvolvimento rápida para projetos frontend.
+- **Bootstrap** - Framework CSS para desenvolvimento de interfaces responsivas.
+- **Contentful** - CMS (Content Management System) headless para gerenciamento de conteúdo.
+
+
+## Como Executar o Projeto
+
+1. Clone este repositório:
+    ```bash
+    git clone https://github.com/tiagoemiliano/trabalhoFrontEnd.git
+    ```
+2. Instale as dependências:
+    ```bash
+    npm install
+    ```
+3. Execute o projeto:
+    ```bash
+    npm start
+    ```
